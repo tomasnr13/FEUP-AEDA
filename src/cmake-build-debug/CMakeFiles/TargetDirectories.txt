@@ -1,0 +1,3 @@
+/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/CMakeFiles/aeda2020_portagens.dir

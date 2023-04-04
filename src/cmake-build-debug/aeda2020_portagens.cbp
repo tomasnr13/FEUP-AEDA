@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="aeda2020_portagens"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeda2020_portagens">
+				<Option output="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/aeda2020_portagens" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeda2020_portagens"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aeda2020_portagens/fast">
+				<Option output="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/aeda2020_portagens" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 aeda2020_portagens/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Date.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Date.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Employee.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Employee.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/EmployeeRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/EmployeeRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Exceptions.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Highway.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Highway.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/HighwayRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/HighwayRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Intervention.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Intervention.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/InterventionRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/InterventionRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Lane.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Lane.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Movement.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Movement.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/MovementRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/MovementRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Owner.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Owner.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/OwnerRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/OwnerRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/SystemNetwork.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/SystemNetwork.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Technician.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Technician.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Toll.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Toll.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Utils.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Utils.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Vehicle.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/Vehicle.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/VehicleRecord.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/VehicleRecord.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/Classes/bst.h">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/main.cpp">
+			<Option target="aeda2020_portagens"/>
+		</Unit>
+		<Unit filename="/home/mim/Documents/FEUP/2ano/Cadeiras/1Semestre/AEDA/AEDA2021Parte2_Turma3_G9/Code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
